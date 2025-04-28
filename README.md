@@ -48,9 +48,14 @@ Saldo atual: 1500.0
 
 ** Digite sua opção **
 1- Saldo
+
 2- Saque
+
 3- Depósito
+
 4- Sair
+
+
 
 📚 Sobre
 Este desafio faz parte da trilha de formação em Java da Alura.
