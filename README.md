@@ -39,7 +39,9 @@ Um programa que permite:
 *****************************
 
 Cliente: Maria Madalena
+
 Tipo de conta: Corrente
+
 Saldo atual: 1500.0
 
 ****************************
