@@ -47,6 +47,8 @@ Saldo atual: 1500.0
 ****************************
 
 ** Digite sua opção **
+
+
 1- Saldo
 
 2- Saque
